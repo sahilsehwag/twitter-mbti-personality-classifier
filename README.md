@@ -11,7 +11,7 @@ The Myers Briggs Type Indicator (or MBTI for short) is a personality type system
 * **Thinking** (T)/**Feeling** (F)
 * **Judging** (J)/**Percieving** (P)
 <br>
-You can read more about the MBTI test [here](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator).
+You can read more about the MBTI test [here](en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator).
 
 ### Dataset
 The [dataset](./personality-test.csv) on which this classifier is trained, contains around 50 posts per user about 8000 users with their *MBTI*
@@ -32,3 +32,12 @@ is heavily biased towards single attribute. For more explanation or better under
 python3 main.py <username>
 ```
 **NOTE**: **&lt;username&gt;** is twitter handle of target user(without @)
+
+# Dependencies
+* python 3.x
+* numpy
+* pandas
+* matplotlib
+* sklearn
+* nltk
+* colorama
