@@ -11,7 +11,7 @@ The Myers Briggs Type Indicator (or MBTI for short) is a personality type system
 * **Thinking** (T)/**Feeling** (F)
 * **Judging** (J)/**Percieving** (P)
 <br>
-You can read more about the MBTI test [here](en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator).
+You can read more about the MBTI test [here](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator).
 
 ### Dataset
 The [dataset](./personality-test.csv) on which this classifier is trained, contains around 50 posts per user about 8000 users with their *MBTI*
@@ -22,7 +22,7 @@ Few features of dataset are:
 * Last 50 posts per user, each entry is separated by '|||'.
 
 ### Caveats
-We have created individiual classifier for each characterstics pair. Although script's final prediction will be complete MBTI type, the first 2
+We have trained individiual classifier for each characterstics pair. Although script's final prediction will be complete MBTI type, the first 2
 pairs/models i.e. Introversion/Extroversion and Intuition/Sensing are not reliable at any level, due to the fact that data regarding these characterstics
 is heavily biased towards single attribute. For more explanation or better understanding, look at this [jupter notebook](./main.ipynb).
 
