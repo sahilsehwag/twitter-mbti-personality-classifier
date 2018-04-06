@@ -5,8 +5,10 @@ in this project, a [jupyter notebook](./main.ipynb) is provided, which contains 
 our trained models*.
 
 ### Note
-For some reason github cannot render complete jupyter notebook last commit. If you are only seeing first 2 sections, I would recommend cloning the repo
-and viewing locally.
+For some reason github cannot render complete jupyter notebook last commit. If you are only seeing first 2 sections, I would recommend using 
+[nbviewer.jupyter.org](http://nbviewer.jupyter.org/), To view jupyter notebook click 
+[here](http://nbviewer.jupyter.org/github/sahilsehwag/twitter-mbti-personality-classifier/blob/master/main.ipynb) or you can clone the repo 
+and view locally.
 
 ### About MBTI
 The Myers Briggs Type Indicator (or MBTI for short) is a personality type system that divides everyone into 16 distinct personality types across 4 axis:
