@@ -4,6 +4,10 @@ personality type using an individual's *social media posts* like **twitter posts
 in this project, a [jupyter notebook](./main.ipynb) is provided, which contains all the *code, explanation, analysis (EDA), model performance and analysis of
 our trained models*.
 
+### Note
+For some reason github cannot render complete jupyter notebook last commit. If you are only seeing first 2 sections, I would recommend cloning the repo
+and viewing locally.
+
 ### About MBTI
 The Myers Briggs Type Indicator (or MBTI for short) is a personality type system that divides everyone into 16 distinct personality types across 4 axis:
 * **Introversion** (I)/**Extroversion** (I)
